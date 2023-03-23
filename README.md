@@ -11,5 +11,5 @@ Laptop3-opencore
 - 硬盘驱动器 ：Skhynix BC501 NVMe 256GB
 - OpenCore版本 0.8.7
 
-#Hidpi 
-建议设置1368x912
+# Hidpi 
+- 建议设置1368x912
